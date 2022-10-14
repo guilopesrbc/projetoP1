@@ -1,4 +1,4 @@
-# Análise da cobertura vacinal em Recife-PE
+# Análise da cobertura vacinal da covid-19 em Recife-PE
 Projeto de visualizador de dados para Programação 1 2022.1 UFPE com a utilização da linguagem python, das bibliotecas pandas(para preparo de dados), matplotlib(criação de gráficos e visualizações de dados em geral), e seaborn(plotagem de graficos)
 
 
