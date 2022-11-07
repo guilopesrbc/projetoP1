@@ -44,7 +44,7 @@ vacina.
    
    6) No final fizemos uma conclusão geral do que se é visto através de todas as análises.
    
-## Ferramentas e bibliotecas utilizados :
+## Ferramentas e bibliotecas utilizadas :
 
   O projeto foi feito com a linguagem Python e utilizamos como bibliotecas: o Pandas para manipular e
 estruturar os dados utilizados, assim como matplotlib, numpy e seaborn para o plot de gráficos
