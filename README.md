@@ -72,6 +72,6 @@ conforme os objetos analisados.
 
 ## Desafios:
 Enfrentamos como desafios a gestão do tempo para a realização do projeto em tempo, os estudos das
-bibliotecas e a compreensão de como usar o git e o github.
+bibliotecas e a compreensão de como usar o git e o github, mas com uma boa gestão do tempo e trabalho em equipe superamos isso.
 
 
