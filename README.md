@@ -71,7 +71,19 @@ plot de gráficos.
 conforme os objetos analisados.
 
 ## Desafios:
-Enfrentamos como desafios a gestão do tempo para a realização do projeto em tempo, os estudos das
-bibliotecas e a compreensão de como usar o git e o github, mas com uma boa gestão do tempo e trabalho em equipe superamos isso.
+De uma maneira geral, enfrentamos como desafios a execução de uma boa gestão do tempo
+para a realização do projeto no período estipulado pelos docentes, os estudos das
+bibliotecas e a compreensão de como usar o git e o github.
 
+Como erro principal da equipe como um todo, podemos destacar uma falta de interação e
+organização da equipe, que certamente se deu devido ao desafio na gestão do tempo e de
+tarefas paralelas ao projeto da disciplina de Programação 1. Ademais, também ocorreram
+alguns outros deslizes isolados com alguns membros da equipe, como a apresentação de
+erros ao usar o GIT e o GIThub.
+
+No entanto, esses erros não danificaram o andamento do projeto no geral, e a equipe conseguiu
+se demonstrar resiliente e unida até o fim.
+
+Diante dos erros, extraímos diversas lições, sendo a principal a de ter organização e
+determinação nas tarefas propostas, e prezar pelo trabalho em equipe.
 
