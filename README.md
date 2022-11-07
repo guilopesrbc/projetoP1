@@ -37,12 +37,12 @@ Acompanhe pelo dashboard: https://dashboardvacinadosrecife.vercel.app/
    
    3) Padronizamos as cores utilizadas nos gráficos.
    
-   4) A primeira análise sempre é a geral, depois fazemos mais outras quatro análises, um para cada dose de
+   4) A primeira análise sempre é a geral, depois fazemos mais outras quatro análises, uma para cada dose de
 vacina.
 
    5) Logo após de cada análise fizemos uma interpretação dele.
    
-   6) No final fizemos um conclusão geral do que se é visto através de todas as análises.
+   6) No final fizemos uma conclusão geral do que se é visto através de todas as análises.
    
 ## Ferramentas e bibliotecas utilizados :
 
