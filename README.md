@@ -93,3 +93,11 @@ se demonstrar bastante resiliente e unida até o fim.
 Diante dos erros, extraímos diversas lições, sendo a principal a de ter organização e
 determinação nas tarefas propostas, e prezar pelo trabalho em equipe.
 
+## Capturas de tela do sistema 
+![Captura de tela_20221107_120323](https://user-images.githubusercontent.com/100159869/200377806-406ec177-94ae-44ec-81ab-e726ebb743d4.png)
+
+![geralGeral](https://user-images.githubusercontent.com/100159869/200377875-ea0fa4db-2d8b-414f-9dae-62e98670d3e9.png) 
+![generoUma](https://user-images.githubusercontent.com/100159869/200378033-9f487a29-5ff5-4c6a-87ab-887ee71ebd64.png)
+
+
+
