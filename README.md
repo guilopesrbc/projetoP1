@@ -88,7 +88,7 @@ alguns outros deslizes isolados com alguns membros da equipe, como a apresentaç
 erros ao usar o GIT e o GIThub.
 
 No entanto, esses erros não danificaram o andamento do projeto no geral, e a equipe conseguiu
-se demonstrar resiliente e unida até o fim.
+se demonstrar bastante resiliente e unida até o fim.
 
 Diante dos erros, extraímos diversas lições, sendo a principal a de ter organização e
 determinação nas tarefas propostas, e prezar pelo trabalho em equipe.
