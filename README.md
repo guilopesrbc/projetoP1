@@ -36,13 +36,19 @@ Acompanhe pelo dashboard: https://dashboardvacinadosrecife.vercel.app/
    2) Comentamos a funcionalidade de cada linha.
    
    3) Padronizamos as cores utilizadas nos gráficos.
+    
+   4)  Iniciamos importando todas as bibliotecas necessárias para a realização do código(particular de
+cada participante)
+
+   5) Utilização das determinadas funções para execução da tarefa desejada.
    
-   4) A primeira análise sempre é a geral, depois fazemos mais outras quatro análises, uma para cada dose de
+   6) A primeira análise sempre é a geral, depois fazemos mais outras quatro análises, uma para cada dose de
 vacina.
 
-   5) Logo após de cada análise fizemos uma interpretação dele.
+   7) Logo após de cada análise fizemos uma interpretação dele.
    
-   6) No final fizemos uma conclusão geral do que se é visto através de todas as análises.
+   8) No final fizemos uma conclusão geral do que se é visto através de todas as análises.
+
    
 ## Ferramentas e bibliotecas utilizadas :
 
